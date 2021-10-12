@@ -1,0 +1,8 @@
+prefix=/home/chud/autopilot_course/lab_1/install
+
+Name: lab_1
+Description: Description of lab_1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
